@@ -13,3 +13,7 @@ Second a text file is included that does indicate it's file type by means of an 
 And third, here's some Ruby code:
 
 ![](resources/code/ruby_code.rb)
+
+Last reference a file that actually _doesn't_ exist:
+
+![](resources/texts/clearly_a_text_file_that_does_not_exist__yet)
